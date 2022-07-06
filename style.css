@@ -1,0 +1,12 @@
+body
+{
+text-align: center;
+color: red;
+}
+.restart{
+    position: absolute;
+     bottom: 350px;
+      width: 50%;
+      float: center;
+      left: 560px;
+}
